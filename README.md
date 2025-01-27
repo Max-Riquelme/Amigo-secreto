@@ -4,7 +4,7 @@
 ## Índice
 1. Descripción del proyecto
 2. Funciones e imagenes explicativas
-3. Acceso al proyecto
+3. Ingresar al proyecto
 4. Tecnologias usadas
 5. Agradecimientos
 ## 1. Descripción del proyecto
@@ -32,10 +32,22 @@ Este es el Challenge de Alura Latam para practicar lo enseñado en las clases de
 
 ![Amigo secreto elegido_27-1-2025_11223_127 0 0 1](https://github.com/user-attachments/assets/984e580b-9f70-46d1-ba2f-80b2d7ee2d19)
 
-## 3. Acceso al proyecto
+## 3. Ingresar al proyecto
 
 ## 4. Tecnologias usadas
+- `Visual Studio Code` (https://code.visualstudio.com/)
+- `Git and Github` (https://git-scm.com/) (https://github.com/)
+- `Javascript` (https://www.javascript.com/)
+- `Html` (https://html.com/)
+- `CSS` (https://developer.mozilla.org/en-US/docs/Web/CSS)
 ## 5. Agradecimientos
 
+Quisiera dar especiales agradecimientos a los profesores y la gente involucrada en Alura Latam por esta oportunidad para aprender tecnologias nuevas
+- Ellen Pimentel
+- Christian Velasco
+- Leonardo Jose Castillo Lacruz
+- Barbara Santos
+- Jose Gonzalez
+- Equipo Alura Latam en general
 
 
