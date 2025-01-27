@@ -33,7 +33,7 @@ Este es el Challenge de Alura Latam para practicar lo enseñado en las clases de
 ![Amigo secreto elegido_27-1-2025_11223_127 0 0 1](https://github.com/user-attachments/assets/984e580b-9f70-46d1-ba2f-80b2d7ee2d19)
 
 ## 3. Ingresar al proyecto
-
+https://github.com/Max-Riquelme/Amigo-secreto.git
 ## 4. Tecnologias usadas
 - `Visual Studio Code` (https://code.visualstudio.com/)
 - `Git and Github` (https://git-scm.com/) (https://github.com/)
